@@ -38,5 +38,6 @@ public class Main {
         out.println(result.phoneNumber);
         Book book = new Book("Moto", "Honda");
         book.isBorrowed=true;
+        out.println("Hello Java");
     }
 }
